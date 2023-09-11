@@ -1,0 +1,7 @@
+[
+  { "id": 1, "brand": "Apple", "price": 999 },
+  { "id": 2, "brand": "Samsung", "price": 299 },
+  { "id": 3, "brand": "Garmin", "price": 249 },
+  { "id": 4, "brand": "Fitbit", "price": 199 },
+  { "id": 5, "brand": "Fossil", "price": 179 }
+]
